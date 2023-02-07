@@ -2936,6 +2936,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 191974493}
     m_Modifications:
+    - target: {fileID: 5953248668584871513, guid: 8d8fb26dd6a666247b80ad25ad1e316b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.52
+      objectReference: {fileID: 0}
     - target: {fileID: 8130560282236414093, guid: 8d8fb26dd6a666247b80ad25ad1e316b, type: 3}
       propertyPath: m_Name
       value: TV_FlatWithStand
@@ -5949,7 +5953,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1304530879}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.862, y: -0.089, z: -0.54}
+  m_LocalPosition: {x: 0.862, y: 0.838, z: -0.54}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
